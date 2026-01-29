@@ -116,5 +116,3 @@ The following steps are followed in the project:
 
 ---
 
-✨ *Bu proje eğitim ve portföy amaçlı hazırlanmıştır.*
-✨ *This project is created for educational and portfolio purposes.*
